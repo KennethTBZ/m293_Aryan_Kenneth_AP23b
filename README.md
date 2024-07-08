@@ -19,3 +19,16 @@ To ensure a clean, professional appearance, I selected the 'Arial' font. Arial i
 To create my logo I used the following website: https://freelogocreator.com/
 
 ![image](https://github.com/KennethTBZ/m293_Kenneth_Projekt_AP23b/assets/150661329/003e534d-9287-4726-b6e5-1613d181e7e7)
+
+## Images
+### Homepage:
+![image](https://github.com/KennethTBZ/m293_Kenneth_Projekt_AP23b/assets/150661329/c742a0e9-a4c5-45c9-b51b-0c921097e79a)
+
+### Players
+**LeBron James:** https://upload.wikimedia.org/wikipedia/commons/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg
+
+**Kevin Durant:** https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kevin_Durant_%28Wizards_v._Warriors%2C_1-24-2019%29_%28cropped%29.jpg/800px-Kevin_Durant_%28Wizards_v._Warriors%2C_1-24-2019%29_%28cropped%29.jpg
+
+**Ja Morant:** https://upload.wikimedia.org/wikipedia/commons/a/a1/Ja_Morant_2021.jpg
+
+**Devin Booker:** https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Devin_Booker_%282022_All-Star_Weekend%29.jpg/330px-Devin_Booker_%282022_All-Star_Weekend%29.jpg
