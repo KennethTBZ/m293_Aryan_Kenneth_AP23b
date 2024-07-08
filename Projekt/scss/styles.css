@@ -74,10 +74,6 @@ main {
   border-radius: 5px;
   transition: background-color 0.3s;
 }
-.button.navbar {
-  background-color: #333333;
-  margin-right: 20px;
-}
 
 .navbar {
   background-color: #333333;
@@ -95,6 +91,12 @@ main {
   text-decoration: none;
   font-size: 30px;
   font-weight: 500;
+  margin-right: 20px;
+}
+.navbar a.button {
+  background-color: #ff6f00;
+  border-radius: 5px;
+  padding: 10px 20px;
 }
 
 .cards-container {
@@ -124,31 +126,28 @@ main {
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-.contact-container h1 {
-  color: #ffffff;
-  margin-bottom: 20px;
-}
-.contact-container .form-group {
+
+.form-group {
   margin-bottom: 8px;
 }
-.contact-container .form-group label {
+.form-group label {
   font-weight: bold;
   color: #ffffff;
   display: block;
   margin-bottom: 5px;
 }
-.contact-container .form-group input,
-.contact-container .form-group textarea,
-.contact-container .form-group select {
+.form-group input,
+.form-group textarea,
+.form-group select {
   width: 100%;
   padding: 10px;
   font-size: 16px;
   border: 1px solid #444444;
   border-radius: 5px;
-  background-color: #1e1e1e;
-  color: #e0e0e0;
+  background-color: #333333;
+  color: #ffffff;
 }
-.contact-container .form-group button {
+.form-group button {
   background-color: #ff6f00;
   color: #ffffff;
   border: none;
@@ -158,22 +157,38 @@ main {
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
-.contact-container .form-group button:hover {
-  background-color: #cc5900;
+.form-group button:hover {
+  background-color: #e65c00;
 }
-.contact-container .radio-group {
+
+.radio-group {
   display: flex;
   align-items: center;
   gap: 10px;
 }
-.contact-container .radio-group input {
+.radio-group input {
   width: auto;
   margin: 0;
 }
-.contact-container .checkbox {
+
+.checkbox {
   padding-top: 20px;
   padding-bottom: 20px;
   font-weight: bold;
+}
+
+.contact-container h1 {
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.forgot-password {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 10px;
+}
+.forgot-password:hover {
+  text-decoration: underline;
 }
 
 .video {
