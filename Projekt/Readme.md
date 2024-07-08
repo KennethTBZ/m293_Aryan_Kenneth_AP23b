@@ -5,3 +5,4 @@ Each card provides information about the player's affiliation team, position and
 Users can explore their favorite players and view some of the players most mind blowing highlights.
 ## Wireframes
 ![image](https://github.com/aryanbisenTBZ/m293_Aryan_Kenneth_AP23b/assets/150661329/e51610c8-858a-4f7a-8ae3-fb033a03e5e2)
+![image](https://github.com/KennethTBZ/m293_Kenneth_Projekt_AP23b/assets/150661329/ac4d5f94-86d5-40ee-8cbf-fb1dadb62435)
