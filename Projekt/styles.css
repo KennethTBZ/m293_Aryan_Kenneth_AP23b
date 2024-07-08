@@ -31,7 +31,6 @@ main {
   text-align: center;
 }
 
-
 .card {
   background-color: #2a2a2a;
   border: 1px solid #444444;
@@ -147,7 +146,6 @@ main {
 
 .form-group {
   margin-bottom: 8px;
-  
 }
 
 .form-group label {
@@ -208,11 +206,16 @@ main {
 }
 
 .forgot-password {
-  color: #ffffff; 
+  color: #ffffff;
   text-decoration: none;
-  margin-left: 10px; 
+  margin-left: 10px;
 }
 
 .forgot-password:hover {
-  text-decoration: underline; 
+  text-decoration: underline;
+}
+
+.video {
+  text-align: center;
+  margin-top: 5vh;
 }
